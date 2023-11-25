@@ -2,6 +2,7 @@
 
 # Imports
 from os import system
+import keyboard
 #from time import sleep
 
 def tamanho(texto=""):
